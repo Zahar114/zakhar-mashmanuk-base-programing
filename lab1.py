@@ -15,3 +15,27 @@ print("grades,", type(grades), grades)
 print("coordinates,", type(coordinates), coordinates)
 print("person,", type(person), person)
 print("unique_numbers,", type(unique_numbers), unique_numbers)
+
+a = 10
+b = 3
+
+print("a + b =", a + b)   # додавання
+print("a - b =", a - b)   # віднімання
+print("a * b =", a * b)   # множення
+print("a / b =", a / b)   # ділення
+print("a // b =", a // b) # Цілочисельне ділення
+print("a % b =", a % b)   # Залишок від ділення
+print("a ** b =", a ** b) # Степінь
+
+x = 5
+print("x =", x) #присвоїти
+x += 2   # x = x + 2
+print("x після += 2 =", x) #додає до вже присвоєного
+x -= 1   # x = x - 1
+print("x після -= 1 =", x) #віднімає від вже присвоєного
+x *= 3   # x = x * 3
+print("x після *= 3 =", x) #множить до вже присвоєного
+x /= 2   # x = x / 2
+print("x після /= 2 =", x) #ділить до вже присвоєного
+x **= 3   # x = x ** 3
+print("x після **= 3 =", x) #підносить до степеня вже присвоєного
