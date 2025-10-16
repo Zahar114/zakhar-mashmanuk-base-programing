@@ -1,0 +1,10 @@
+requests
+numpy
+pandas
+matplotlib
+beautifulsoup4
+Pillow
+faker
+python-dateutil
+pytest
+rich
